@@ -14,6 +14,7 @@ public class secondaClasse {
 
 	public void setCazzo(String cazzo) {
 		this.cazzo = cazzo;
+		System.out.println(this.cazzo);
 	}
 	
 	
