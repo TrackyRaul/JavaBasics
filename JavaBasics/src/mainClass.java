@@ -16,6 +16,9 @@ public class mainClass {
 		String user = text.next();
 		System.out.println(Ciao+" "+lol+ " "+ user);
 		ciccio("sdafds");
+		if(Ciao == 34){
+			
+		}
 
 	}
 	
