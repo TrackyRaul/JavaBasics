@@ -5,6 +5,7 @@ public class mainClass {
 
 	public static void main(String[] args) {
 		Scanner text = new Scanner(System.in);
+		secondaClasse cso = new secondaClasse();
 		
 		int Ciao = 34;
 		
@@ -21,8 +22,10 @@ public class mainClass {
 		}else{
 			
 		}
+		cso.setCazzo("dsa");
 
 	}
+	
 	
 	
 	public static void ciccio(String cane){
